@@ -2,7 +2,7 @@
 
 Exploratory Bug Hunt Challenge Name : Samarth Gupta
 
-Email Address : samaarth.gupta2@wipro.com
+Email Address : samarth.gupta2@wipro.com
 
 Topcoder Handle : samarth83
 
